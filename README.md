@@ -3,8 +3,8 @@ It's Jędrzej, digital designer & developer.
 
 
 ### 🔭 I’m currently working on
-- 🏃 [tupobiegasz.pl](https://tupobiegasz.pl/)
-- 🏹 [tupobiegasz.pl](https://tupobiegasz.pl/)
+- 🏃 [TuPobiegasz.pl](https://tupobiegasz.pl/)
+- 🏹 [TuPostrzelasz.pl](https://tupostrzelasz.pl/)
 
 ### 🌱 I’m currently learning
 - Developing mobile applications using Capacitor
